@@ -12,3 +12,4 @@ AS401401 # Unredacted
 AS401720 # Unredacted
 AS200373 # 3xktech
 AS198571 # 3xktech
+AS208172 # ProtonVPN (https://github.com/X4BNet/lists_vpn/issues/248)
